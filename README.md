@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://media1.tenor.com/m/nL04FAmlxUkAAAAd/wuwa-chisa.gif)
-
+<p align="center">
+  <img src="https://media1.tenor.com/m/nL04FAmlxUkAAAAd/wuwa-chisa.gif" alt="Wuwa Chisa">
+</p>
