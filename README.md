@@ -1,4 +1,4 @@
-## Hello World!👋 I'm Muhamad Deco Prasetyo
+![](img/github-header-banner.png)
 
 <!--
 **mdprsty16/mdprsty16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
